@@ -56,8 +56,8 @@ Each record aggregates survey responses for a U.S. county on a given day.<br>
   - *Social Exposure Score*: Estimates daily exposure risk.<br>
   - *Mistrust Gap*: Difference in trust between health experts and politicians.<br>
   - *Peer Influence Index*: Quantifies susceptibility to peer norms.<br>
-  - *CLI Risk Behavior Flag*: Flags counties with high COVID-like illness and low protective behaviors.
-<br>
+  - *CLI Risk Behavior Flag*: Flags counties with high COVID-like illness and low protective behaviors.<br>
+  
 ---
 
 ## Dataset Splitting Strategy
