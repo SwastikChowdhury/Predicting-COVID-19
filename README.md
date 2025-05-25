@@ -1,9 +1,9 @@
 # Predicting COVID-19 Vaccine Uptake and Positivity Rates Using Behavioral and Belief Indicators 
 **Team Members:**  <br>
-- ssamadda@andrew.cmu.edu  <br>
-- abharga3@andrew.cmu.edu  <br>
-- aakulshr@andrew.cmu.edu  <br>
-- shrenyam@andrew.cmu.edu  <br>
+- Swastik  <br>
+- Abhinav  <br>
+- Aditya  <br>
+- Shrenya  <br>
 
 ---
 
@@ -138,8 +138,8 @@ Each record aggregates survey responses for a U.S. county on a given day.<br>
 - **Trust-Building Initiatives:**  
   Host "Community Health Days" with local health networks to boost compliance and trust.<br>
 - **Longitudinal Monitoring:**  
-  Fund studies to track uptake, positivity, and variants for ongoing model refinement.
-<br>
+  Fund studies to track uptake, positivity, and variants for ongoing model refinement.<br>
+  
 ---
 
 ## Assumptions and Limitations
@@ -160,11 +160,5 @@ Each record aggregates survey responses for a U.S. county on a given day.<br>
 
 **Dataset:**  
 Carnegie Mellon University Delphi Group. (2021). COVID-19 Trends and Impact Survey (CTIS)<br>
-
----
-
-## Contact
-
-For questions or collaboration, please reach out to any team member listed above.
 
 ---
